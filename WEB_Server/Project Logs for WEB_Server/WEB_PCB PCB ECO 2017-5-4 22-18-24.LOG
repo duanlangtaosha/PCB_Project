@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=LED0 Pin=R35-1
+Removed Pin From Net: NetName=LED1 Pin=R36-1
+Added Pin To Net: NetName=PB11 Pin=R35-1
+Added Pin To Net: NetName=PB10 Pin=R36-1
+Change Net Name : Old Net Name=LED0 New Net Name=PA0
+Change Net Name : Old Net Name=LED1 New Net Name=PA1
+Change Net Name : Old Net Name=PB10 New Net Name=LED1
+Change Net Name : Old Net Name=PB11 New Net Name=LED0
+Added Room: Name=mcu_sys_sch
+Added Room: Name=web_sch

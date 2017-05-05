@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=BEEP Pin=R33-1
+Added Pin To Net: NetName=PB1 Pin=R33-1
+Change Net Name : Old Net Name=BEEP New Net Name=PA8
+Change Net Name : Old Net Name=PB1 New Net Name=BEEP
+Added Member To Class: ClassName=mcu_sys_sch Member=Component P1 HEAD2*22
+Added Room: Name=mcu_sys_sch
+Added Room: Name=web_sch

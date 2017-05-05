@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=LED1 Old Footprint=SMDLED New Footprint=LED_0603
+Change Component Footprint: Designator=LED2 Old Footprint=SMDLED New Footprint=LED_0603
+Change Component Footprint: Designator=LED3 Old Footprint=SMDLED New Footprint=LED_0603
+Change Component Footprint: Designator=LED4 Old Footprint=SMDLED New Footprint=LED_0603
+Change Component Footprint: Designator=LED5 Old Footprint=SMDLED New Footprint=LED_0603
+Change Component Footprint: Designator=LED6 Old Footprint=SMDLED New Footprint=LED_0603
+Change Component Footprint: Designator=LED7 Old Footprint=SMDLED New Footprint=LED_0603
+Change Component Footprint: Designator=LED8 Old Footprint=SMDLED New Footprint=LED_0603
+Added Room: Name=mcu_sys_sch
+Added Room: Name=web_sch

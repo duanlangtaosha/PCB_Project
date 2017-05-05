@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NET_RST Pin=U1-29
+Removed Pin From Net: NetName=NET_SPI_CS Pin=U1-30
+Added Pin To Net: NetName=PB10 Pin=U1-29
+Added Pin To Net: NetName=PB11 Pin=U1-30
+Added Room: Name=mcu_sys_sch
+Added Room: Name=web_sch
